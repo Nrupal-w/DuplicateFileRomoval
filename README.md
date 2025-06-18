@@ -301,15 +301,7 @@ Please provide appropriate attribution when using or modifying this script.
 
 ---
 
-## 📞 Support
 
-If you encounter issues or have questions:
-
-1. Check the [Troubleshooting](#-troubleshooting) section
-2. Create an issue in the repository
-3. Provide error logs and system information
-
----
 
 ## 🎯 Roadmap
 
